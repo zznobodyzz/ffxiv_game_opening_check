@@ -1,0 +1,8 @@
+﻿  checkonline.cpp
+c:\users\zdc\source\repos\check_online\checkonline\checkonline.cpp(61): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+c:\users\zdc\source\repos\check_online\checkonline\checkonline.cpp(66): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+c:\users\zdc\source\repos\check_online\checkonline\checkonline.cpp(243): warning C4244: “参数”: 从“DWORD”转换到“u_short”，可能丢失数据
+c:\users\zdc\source\repos\check_online\checkonline\checkonline.cpp(220): warning C4101: “IpAddr”: 未引用的局部变量
+c:\users\zdc\source\repos\check_online\checkonline\checkonline.cpp(218): warning C4101: “szLocalAddr”: 未引用的局部变量
+c:\users\zdc\source\repos\check_online\checkonline\checkonline.cpp(219): warning C4101: “szRemoteAddr”: 未引用的局部变量
+  checkonline.vcxproj -> C:\Users\zdc\source\repos\check_online\Debug\checkonline.exe
